@@ -1,4 +1,4 @@
 interface:
   display_name: "Research Code Academy"
-  short_description: "Robotics code reading and research tutor"
-  default_prompt: "Use $research-code-academy to analyze this robotics repository like a textbook."
+  short_description: "Robotics code reading and tutorial writer"
+  default_prompt: "Use $research-code-academy to analyze this robotics code and write a concept-first tutorial."

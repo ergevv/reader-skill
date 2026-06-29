@@ -38,6 +38,7 @@ Prompts that should trigger this skill:
 
 - "分析这个仓库，像教材一样讲清楚。"
 - "解释 FAST-LIO2 的 laserMapping.cpp。"
+- "阅读 `src/vio.cpp`，在 `fast_livo2_learning` 生成一个 Markdown blog，要求脱离代码讲清楚 VIO。"
 - "这个类每个成员变量为什么存在？"
 - "把这段 ESKF 更新代码和论文公式对应起来。"
 - "定位发散，帮我从源码角度排查。"
